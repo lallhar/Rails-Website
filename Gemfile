@@ -57,4 +57,4 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.1.0'
 
 gem 'gurujada_view_tool', git: "https://github.com/lallhar/gurujada_view_tool.git"
-gem 'petergate', '~> 1.7'
+gem 'petergate'

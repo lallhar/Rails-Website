@@ -207,7 +207,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (>= 3.0.5, < 3.2)
-  petergate (~> 1.7)
+  petergate
   pg (>= 0.18, < 2.0)
   pry-byebug
   puma (~> 3.7)
