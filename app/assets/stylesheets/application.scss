@@ -186,20 +186,22 @@ body {
    width: 22rem;
  }
  
- .zero{
-   color: red;
- }
- 
- .nothing{
-   color: blue;
-   fotn-size: 2.3rem;
- }
- 
  .how{
    font-size: 2.2rem;
    text-transform: uppercase;
+   font-family: 'Skranji', cursive;
  }
  
  .cursue{
    font-family: 'Indie Flower', cursive;
  }
+ 
+ .app-nav span {
+  margin-left: 15px;
+  margin-right: 15px;
+ }
+ 
+ .lead{
+    font-family: 'Indie Flower', cursive;
+ }
+ 
